@@ -2,8 +2,8 @@
 import streamlit as st
 from fillaform import *
 from generate_resume import generate_resume1
-from reportlab.lib.pagesizes import letter
-from reportlab.pdfgen import canvas
+# from reportlab.lib.pagesizes import letter
+# from reportlab.pdfgen import canvas
 from io import BytesIO
 
 
