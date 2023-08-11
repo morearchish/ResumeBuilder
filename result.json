@@ -1,0 +1,17 @@
+{
+    "name": "Name",
+    "job_title": "Role/Major's",
+    "email": "Email",
+    "link": "www.example.com",
+    "phone": "Ph No",
+    "personal_profile": "A brief personal profile goes here.",
+    "address": "City/State",
+    "key_skills": {
+        "Web Design": "Assertively exploit wireless initiatives rather than synergistic core competencies.",
+        "Interface Design": "Credibly streamline mission-critical value with multifunctional functionalities.",
+        "Project Direction": "Proven ability to lead and manage a wide variety of design and development projects in team and independent situations."
+    },
+    "technical_skills": [],
+    "work_experience": [],
+    "education": []
+}
